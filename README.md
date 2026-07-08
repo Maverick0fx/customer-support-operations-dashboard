@@ -1,7 +1,15 @@
 # Customer Support Operations Dashboard
 
 
-**Tools Used:** Microsoft Excel | VBA | PivotTables | PivotCharts | Data Validation | Conditional Formatting | Timeline Filters
+## Tech Stack
+
+- Microsoft Excel
+- VBA
+- PivotTables
+- PivotCharts
+- Data Validation
+- Conditional Formatting
+- Timeline Filters
 > An Excel-based operations management solution designed to organize customer support tickets, automate ticket prioritization, streamline engineering workflows, and provide management with actionable support performance insights.
 
 ## Dashboard Preview
@@ -124,6 +132,8 @@ The dashboard enables management and engineering teams to quickly identify opera
 
 ---
 
+---
+
 ## Skills Demonstrated
 
 - Data Cleaning
@@ -131,19 +141,20 @@ The dashboard enables management and engineering teams to quickly identify opera
 - Dashboard Design
 - Data Visualization
 - KPI Reporting
-- Business Process Analysis
-- Workflow Automation
-- VBA Programming
 - PivotTables & PivotCharts
+- VBA Automation
 - Conditional Formatting
+- Business Process Analysis
+- Workflow Optimization
 - Stakeholder Reporting
 
-## Repository Contents
+### Repository Contents
 
-- `Customer Support Operations Dashboard Macro enabled.xlsm` – Interactive Excel dashboard with VBA automation.
-- `dashboard-overview.png` – Dashboard preview.
-- `README.md` – Project documentation.
-
+| File | Description |
+|------|-------------|
+| `customer-support-operations-dashboard.xlsm` | Interactive Excel dashboard featuring VBA automation, Data Validation, PivotTables, PivotCharts, Conditional Formatting, KPI reporting, and workflow automation. |
+| `dashboard-overview.png` | Screenshot of the completed dashboard. |
+| `README.md` | Project overview, business problem, implementation approach, key insights, and documentation. |
 ---
 
 ## Future Improvements
